@@ -1,0 +1,7 @@
+### Publish Message
+POST http://localhost:5000/publish
+Content-Type: application/json
+
+{
+  "message": "test messages"
+}

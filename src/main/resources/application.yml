@@ -1,0 +1,7 @@
+server:
+  port: 5000
+spring:
+  rabbitmq:
+    addresses: localhost:5672
+    username: admin
+    password: 7qvt6t2738
